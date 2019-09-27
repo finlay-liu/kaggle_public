@@ -1,7 +1,6 @@
 # 开源说明
 
-- 互联网金融新实体发现：https://www.datafountain.cn/competitions/361/ranking
-
+- 互联网金融新实体发现：https://www.datafountain.cn/competitions/361/
   开源第五名0.20492665分数代码
 
 - 互联网新闻情感分析：https://www.datafountain.cn/competitions/350
