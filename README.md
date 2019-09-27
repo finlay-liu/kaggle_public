@@ -12,4 +12,8 @@
 
   开源分数0.0001分数代码
   
+- biendata-智源&计算所-互联网虚假新闻检测挑战赛：https://www.biendata.com/competition/falsenews/
+
+  开源task1的bert代码，线上91.5左右
+  
 欢迎star，欢迎关注我的知乎：https://www.zhihu.com/people/finlayliu/
