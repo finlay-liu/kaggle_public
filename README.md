@@ -1,6 +1,19 @@
+# 常用链接
+
+| [Kaggle](www.kaggle.com) | [DrivenData](www.drivendata.org) | [Colalab](competitions.codalab.org) | [CrowdAI](www.crowdai.org) | [Kelvins](https://kelvins.esa.int/) |
+| ------ | ---- | ---- | ---- | ---- |
+| [Signate](https://signate.jp/) | [analyticsvidhya](https://datahack.analyticsvidhya.com/) |      |      |      |
+| [天池](tianchi.aliyun.com) | [点石](dianshi.baidu.com/competition) | [JData](jdata.jd.com) | [DataCastle](www.pkbigdata.com) | [DataFountain](www.datafountain.cn) |
+| [Biendata](biendata.com) | [科赛](www.kesci.com) | [AI研习社](https://god.yanxishe.com/) | [图灵联邦](http://www.turingtopia.com/competitionnew) | [AI Studio](https://aistudio.baidu.com/aistudio/competition) |
+
+- https://www.datascicamp.com/?sub=DM,CV,NLP,RL,SP
+
+
+
 # 开源说明
 
 - 互联网金融新实体发现：https://www.datafountain.cn/competitions/361/
+
   开源第五名0.20492665分数代码
 
 - 互联网新闻情感分析：https://www.datafountain.cn/competitions/350
