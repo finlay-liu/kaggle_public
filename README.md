@@ -1,4 +1,4 @@
-# 常用链接
+## 常用链接
 
 | [Kaggle](www.kaggle.com) | [DrivenData](www.drivendata.org) | [Colalab](competitions.codalab.org) | [CrowdAI](www.crowdai.org) | [Kelvins](https://kelvins.esa.int/) |
 | ------ | ---- | ---- | ---- | ---- |
@@ -10,7 +10,7 @@
 
 
 
-# 开源说明
+## 开源说明
 
 - 互联网金融新实体发现：https://www.datafountain.cn/competitions/361/
 
@@ -29,3 +29,5 @@
   开源task1的bert代码，线上91.5左右
   
 欢迎star，欢迎关注我的知乎：https://www.zhihu.com/people/finlayliu/
+
+本repo代码仅供大家学习只用，如使用repo代码版权问题请自行承担。
