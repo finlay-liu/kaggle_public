@@ -14,11 +14,11 @@
 
 - 互联网金融新实体发现：https://www.datafountain.cn/competitions/361/
 
-  开源第五名0.20492665分数代码
+  开源0.20492665分数代码
 
 - 互联网新闻情感分析：https://www.datafountain.cn/competitions/350
   
-  开源第五名0.80081755分数代码
+  开源0.80081755分数代码
   
 - 视频版权检测算法：https://www.datafountain.cn/competitions/354/
 
