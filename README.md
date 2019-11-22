@@ -6,8 +6,7 @@
 | [天池](tianchi.aliyun.com) | [点石](dianshi.baidu.com/competition) | [JData](jdata.jd.com) | [DataCastle](www.pkbigdata.com) | [DataFountain](www.datafountain.cn) |
 | [Biendata](biendata.com) | [科赛](www.kesci.com) | [AI研习社](https://god.yanxishe.com/) | [图灵联邦](http://www.turingtopia.com/competitionnew) | [AI Studio](https://aistudio.baidu.com/aistudio/competition) |
 
-- https://www.datascicamp.com/?sub=DM,CV,NLP,RL,SP
-
+- 数据竞赛列表：https://www.datascicamp.com/?sub=DM,CV,NLP,RL,SP
 
 
 ## 开源说明
@@ -27,7 +26,11 @@
 - biendata-智源&计算所-互联网虚假新闻检测挑战赛：https://www.biendata.com/competition/falsenews/
 
   开源task1的bert代码，线上91.5左右
-  
-欢迎star，欢迎关注我的知乎：https://www.zhihu.com/people/finlayliu/
 
-本repo代码仅供大家学习只用，如使用repo代码版权问题请自行承担。
+
+## 版权声明
+
+1. 本repo代码仅供大家学习只用，如使用repo代码版权问题请自行承担。
+2. 本repo代码部分来自网络，如果有版权问题需要删除，请邮件联系finlayliu@qq.com
+3. 欢迎star，欢迎关注我的知乎：https://www.zhihu.com/people/finlayliu/
+
