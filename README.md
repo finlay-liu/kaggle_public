@@ -1,3 +1,5 @@
+## 请关注本Repo的最新版https://github.com/datawhalechina/competition-baseline
+
 ## 常用链接
 
 | [Kaggle](www.kaggle.com) | [DrivenData](www.drivendata.org) | [Colalab](competitions.codalab.org) | [CrowdAI](www.crowdai.org) | [Kelvins](https://kelvins.esa.int/) |
